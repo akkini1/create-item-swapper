@@ -1,0 +1,24 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_snr.headstock",
+    "icon": "railways:wooden_headstock_buffer",	
+    "items": [
+        "railways:big_buffer",
+        "railways:small_buffer",
+        "railways:link_and_pin",
+        "railways:wooden_headstock",
+        "railways:wooden_headstock_buffer",
+        "railways:wooden_headstock_link_and_pin",
+        "railways:copycat_headstock",
+        "railways:copycat_headstock_buffer",
+        "railways:copycat_headstock_link_and_pin"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_steam_n_rails/steam_n_rails"
+        }
+    ]
+}

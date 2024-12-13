@@ -1,0 +1,44 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_decorative.metals.brass",
+    "icon": "create:brass_block",	
+    "items": [
+        "create:brass_casing",
+        "create:brass_ladder",
+        "create:brass_bars",
+        "create:brass_scaffolding",
+        "create:brass_door",
+        "create:brass_block",
+        "createdeco:brass_window",
+        "createdeco:brass_window_pane",
+        "createdeco:brass_bars_overlay",
+        "createdeco:brass_bars",
+        "createdeco:brass_mesh_fence",
+        "createdeco:brass_catwalk",
+        "createdeco:brass_catwalk_stairs",
+        "createdeco:brass_catwalk_railing",
+        "createdeco:brass_support_wedge",
+        "createdeco:brass_hull",
+        "createdeco:brass_support",
+        "createdeco:yellow_brass_lamp",
+        "createdeco:red_brass_lamp",
+        "createdeco:green_brass_lamp",
+        "createdeco:blue_brass_lamp",
+        "createdeco:brass_sheet_metal",
+        "createdeco:brass_door",
+        "createdeco:locked_brass_door",
+        "createdeco:brass_trapdoor"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_decorative/deco"
+        },
+        {
+            "type": "link",
+            "target": "itemswapper:v2/create_decorative/metals/metals"
+        }
+    ]
+}

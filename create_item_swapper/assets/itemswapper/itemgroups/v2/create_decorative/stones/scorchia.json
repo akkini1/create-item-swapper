@@ -1,0 +1,38 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_decorative.stones.scorchia",
+    "icon": "create:scorchia",	
+    "items": [
+        "create:scorchia",
+        "create:cut_scorchia",
+        "create:cut_scorchia_stairs",
+        "create:cut_scorchia_slab",
+        "create:cut_scorchia_wall",
+        "create:polished_cut_scorchia",
+        "create:polished_cut_scorchia_stairs",
+        "create:polished_cut_scorchia_slab",
+        "create:polished_cut_scorchia_wall",
+        "create:cut_scorchia_bricks",
+        "create:cut_scorchia_brick_stairs",
+        "create:cut_scorchia_brick_slab",
+        "create:cut_scorchia_brick_wall",
+        "create:small_scorchia_bricks",
+        "create:small_scorchia_brick_stairs",
+        "create:small_scorchia_brick_slab",
+        "create:small_scorchia_brick_wall",
+        "create:layered_scorchia",
+        "create:scorchia_pillar"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_decorative/deco"
+        },
+        {
+            "type": "link",
+            "target": "itemswapper:v2/create_decorative/stones/stones"
+        } 
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_decorative.metals.industrial_iron",
+    "icon": "create:industrial_iron_alloy_block",	
+    "items": [
+        "create:industrial_iron_block",
+        "create:metal_girder",
+        "create:metal_bracket",
+        "create:basin",
+        "create:chute",
+        "createdeco:industrial_iron_window",
+        "createdeco:industrial_iron_window_pane",
+        "createdeco:industrial_iron_bars_overlay",
+        "createdeco:industrial_iron_bars",
+        "createdeco:industrial_iron_mesh_fence",
+        "createdeco:industrial_iron_catwalk",
+        "createdeco:industrial_iron_catwalk_stairs",
+        "createdeco:industrial_iron_catwalk_railing",
+        "createdeco:industrial_iron_support_wedge",
+        "createdeco:industrial_iron_hull",
+        "createdeco:industrial_iron_support",
+        "createdeco:yellow_industrial_iron_lamp",
+        "createdeco:red_industrial_iron_lamp",
+        "createdeco:green_industrial_iron_lamp",
+        "createdeco:blue_industrial_iron_lamp",
+        "createdeco:industrial_iron_sheet_metal",
+        "createdeco:industrial_iron_door",
+        "createdeco:locked_industrial_iron_door",
+        "createdeco:industrial_iron_trapdoor"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_decorative/deco"
+        },
+        {
+            "type": "link",
+            "target": "itemswapper:v2/create_decorative/metals/metals"
+        }
+    ]
+}

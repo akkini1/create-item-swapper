@@ -1,0 +1,41 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_decorative",
+    "icon": "create:ornate_iron_window",	
+    "items": [
+        {
+            "id": "create:spruce_window",
+            "name": "text.itemswapper.palette.create_decorative.windows",
+            "link": "itemswapper:v2/create_decorative/windows",
+            "actAsLink": true
+        },
+        {
+            "id": "create:cut_veridium",
+            "name": "text.itemswapper.palette.create_decorative.stones",
+            "link": "itemswapper:v2/create_decorative/stones/stones",
+            "actAsLink": true
+        },
+        {
+            "id": "create:metal_girder",
+            "name": "text.itemswapper.palette.create_decorative.metals",
+            "link": "itemswapper:v2/create_decorative/metals/metals",
+            "actAsLink": true
+        },
+        "create:copycat_step",
+        "create:copycat_panel"
+
+        
+    ],   
+    "ignoreItems": [
+        "create:ornate_iron_window"
+
+        
+    ],   
+    "shortcuts": [
+        {
+            "type": "link",
+            "target": "itemswapper:v2/createmods"
+        }
+    ]
+}

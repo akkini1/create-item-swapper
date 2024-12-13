@@ -1,0 +1,33 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_snr.locometal.red",
+    "icon": "railways:red_slashed_locometal",	
+    "items": [
+        "railways:red_slashed_locometal",
+        "railways:red_riveted_locometal",
+        "railways:red_locometal_pillar",
+        "railways:red_locometal_smokebox",
+        "railways:red_plated_locometal",
+        "railways:red_flat_slashed_locometal",
+        "railways:red_flat_riveted_locometal",
+        "railways:red_brass_wrapped_locometal",
+        "railways:red_copper_wrapped_locometal",
+        "railways:red_iron_wrapped_locometal",
+        "railways:red_locometal_boiler",
+        "railways:red_brass_wrapped_locometal_boiler",
+        "railways:red_copper_wrapped_locometal_boiler",
+        "railways:red_iron_wrapped_locometal_boiler"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_steam_n_rails/steam_n_rails"
+        },
+        {
+            "type": "link",
+            "target": "itemswapper:v2/create_steam_n_rails/locometal/locometal"
+        }
+    ]
+}

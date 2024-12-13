@@ -1,0 +1,22 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_electrical.machines",
+    "icon": "createaddition:tesla_coil",	
+    "items": [
+        "createaddition:electric_motor",
+        "createaddition:alternator",
+        "createaddition:rolling_mill",
+        "createaddition:tesla_coil",
+        "createaddition:modular_accumulator",
+        "createaddition:portable_energy_interface",
+        "createaddition:creative_energy"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_electrical/electrics"
+        }
+    ]
+}

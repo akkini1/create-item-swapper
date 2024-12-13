@@ -1,0 +1,46 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_snr.snr",
+    "icon": "railways:blue_conductor_cap",
+    "items": [
+        {
+            "id": "railways:slashed_locometal",
+            "name": "text.itemswapper.palette.create_snr.locometal",
+            "link": "itemswapper:v2/create_steam_n_rails/locometal/locometal",
+            "actAsLink": true
+        },
+        {
+            "id": "railways:track_dark_oak",
+            "name": "text.itemswapper.palette.create_snr.tracks",
+            "link": "itemswapper:v2/create_steam_n_rails/tracks/tracks",
+            "actAsLink": true
+        },
+        {
+            "id": "railways:smokestack_coalburner",
+            "name": "text.itemswapper.palette.create_snr.smokestacks",
+            "link": "itemswapper:v2/create_steam_n_rails/smokestacks",
+            "actAsLink": true
+        },
+        {
+            "id": "railways:wooden_headstock_buffer",
+            "name": "text.itemswapper.palette.create_snr.headstock",
+            "link": "itemswapper:v2/create_steam_n_rails/headstock",
+            "actAsLink": true
+        },
+        {
+            "id": "railways:semaphore",
+            "name": "text.itemswapper.palette.create_snr.tech",
+            "link": "itemswapper:v2/create_steam_n_rails/tech",
+            "actAsLink": true
+        }
+        
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/createmods"
+        } 
+    ]
+}

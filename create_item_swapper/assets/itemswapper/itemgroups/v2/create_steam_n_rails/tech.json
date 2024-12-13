@@ -1,0 +1,25 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_snr.tech",
+    "icon": "railways:semaphore",	
+    "items": [
+        "railways:red_conductor_cap",
+        "railways:conductor_whistle",
+        "railways:remote_lens",
+        "railways:semaphore",
+        "railways:track_coupler",
+        "railways:track_switch_andesite",
+        "railways:track_switch_brass",
+        "railways:handcar",
+        "railways:fuel_tank",
+        "railways:portable_fuel_interface"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_steam_n_rails/steam_n_rails"
+        }
+    ]
+}

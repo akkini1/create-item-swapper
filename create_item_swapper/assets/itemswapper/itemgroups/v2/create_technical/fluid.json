@@ -1,0 +1,25 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_technical.items",
+    "icon": "create:fluid_pipe",
+    "items": [
+        "create:fluid_pipe",
+        "create:mechanical_pump",
+        "create:smart_fluid_pipe",
+        "create:fluid_valve",
+        "create:fluid_tank",
+        "create:hose_pulley",
+        "create:item_drain",
+        "create:portable_fluid_interface",
+        "create:spout"
+        
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_technical/tech"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_decorative.stones",
+    "icon": "create:cut_veridium",	
+    "items": [
+        {
+            "id": "create:cut_granite",
+            "name": "text.itemswapper.palette.create_decorative.stones.granite",
+            "link": "itemswapper:v2/create_decorative/stones/granite",
+            "actAsLink": true
+        },
+        {
+            "id": "create:cut_diorite",
+            "name": "text.itemswapper.palette.create_decorative.stones.diorite",
+            "link": "itemswapper:v2/create_decorative/stones/diorite",
+            "actAsLink": true
+        },
+        {
+            "id": "create:cut_andesite",
+            "name": "text.itemswapper.palette.create_decorative.stones.andesite",
+            "link": "itemswapper:v2/create_decorative/stones/andesite",
+            "actAsLink": true
+        },
+        {
+            "id": "create:cut_calcite",
+            "name": "text.itemswapper.palette.create_decorative.stones.calcite",
+            "link": "itemswapper:v2/create_decorative/stones/calcite",
+            "actAsLink": true
+        },
+        {
+            "id": "create:cut_dripstone",
+            "name": "text.itemswapper.palette.create_decorative.stones.dripstone",
+            "link": "itemswapper:v2/create_decorative/stones/dripstone",
+            "actAsLink": true
+        },
+        {
+            "id": "create:cut_deepslate",
+            "name": "text.itemswapper.palette.create_decorative.stones.deepslate",
+            "link": "itemswapper:v2/create_decorative/stones/deepslate",
+            "actAsLink": true
+        },
+        {
+            "id": "create:cut_tuff",
+            "name": "text.itemswapper.palette.create_decorative.stones.tuff",
+            "link": "itemswapper:v2/create_decorative/stones/tuff",
+            "actAsLink": true
+        },
+        {
+            "id": "create:asurine",
+            "name": "text.itemswapper.palette.create_decorative.stones.asurine",
+            "link": "itemswapper:v2/create_decorative/stones/asurine",
+            "actAsLink": true
+        },
+        {
+            "id": "create:crimsite",
+            "name": "text.itemswapper.palette.create_decorative.stones.crimsite",
+            "link": "itemswapper:v2/create_decorative/stones/crimsite",
+            "actAsLink": true
+        },
+        {
+            "id": "create:limestone",
+            "name": "text.itemswapper.palette.create_decorative.stones.limestone",
+            "link": "itemswapper:v2/create_decorative/stones/limestone",
+            "actAsLink": true
+        },
+        {
+            "id": "create:ochrum",
+            "name": "text.itemswapper.palette.create_decorative.stones.ochrum",
+            "link": "itemswapper:v2/create_decorative/stones/ochrum",
+            "actAsLink": true
+        },
+        {
+            "id": "create:scoria",
+            "name": "text.itemswapper.palette.create_decorative.stones.scoria",
+            "link": "itemswapper:v2/create_decorative/stones/scoria",
+            "actAsLink": true
+        },
+        {
+            "id": "create:scorchia",
+            "name": "text.itemswapper.palette.create_decorative.stones.scorchia",
+            "link": "itemswapper:v2/create_decorative/stones/scorchia",
+            "actAsLink": true
+        },
+        {
+            "id": "create:veridium",
+            "name": "text.itemswapper.palette.create_decorative.stones.veridium",
+            "link": "itemswapper:v2/create_decorative/stones/veridium",
+            "actAsLink": true
+        }
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_decorative/deco"
+        } 
+    ]
+}

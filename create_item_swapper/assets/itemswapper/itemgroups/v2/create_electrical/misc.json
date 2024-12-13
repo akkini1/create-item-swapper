@@ -1,0 +1,18 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_electrical.misc",
+    "icon": "createaddition:barbed_wire",	
+    "items": [
+        "createaddition:barbed_wire",
+        "createaddition:straw",
+        "createaddition:bioethanol_bucket"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_electrical/electrics"
+        }
+    ]
+}

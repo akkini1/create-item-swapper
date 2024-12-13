@@ -1,0 +1,44 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_decorative.metals.andesite",
+    "icon": "create:andesite_alloy_block",	
+    "items": [
+        "create:andesite_casing",
+        "create:andesite_ladder",
+        "create:andesite_bars",
+        "create:andesite_scaffolding",
+        "create:andesite_door",
+        "create:andesite_alloy_block",
+        "createdeco:andesite_window",
+        "createdeco:andesite_window_pane",
+        "createdeco:andesite_bars_overlay",
+        "createdeco:andesite_bars",
+        "createdeco:andesite_mesh_fence",
+        "createdeco:andesite_catwalk",
+        "createdeco:andesite_catwalk_stairs",
+        "createdeco:andesite_catwalk_railing",
+        "createdeco:andesite_support_wedge",
+        "createdeco:andesite_hull",
+        "createdeco:andesite_support",
+        "createdeco:yellow_andesite_lamp",
+        "createdeco:red_andesite_lamp",
+        "createdeco:green_andesite_lamp",
+        "createdeco:blue_andesite_lamp",
+        "createdeco:andesite_sheet_metal",
+        "createdeco:andesite_door",
+        "createdeco:locked_andesite_door",
+        "createdeco:andesite_trapdoor"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_decorative/deco"
+        },
+        {
+            "type": "link",
+            "target": "itemswapper:v2/create_decorative/metals/metals"
+        }
+    ]
+}

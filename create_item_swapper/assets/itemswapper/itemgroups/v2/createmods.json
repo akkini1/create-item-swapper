@@ -1,0 +1,44 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.mods",
+    "icon": "create:goggles",	
+    "items": [
+        {
+            "id": "create:ornate_iron_window",
+            "name": "text.itemswapper.palette.create_decorative",
+            "link": "itemswapper:v2/create_decorative/deco",
+            "actAsLink": true
+        },
+        {
+            "id": "create:cogwheel",
+            "name": "text.itemswapper.palette.tech",
+            "link": "itemswapper:v2/create_technical/tech",
+            "actAsLink": true
+        },
+        {
+            "id": "railways:blue_conductor_cap",
+            "name": "text.itemswapper.palette.create_snr.snr",
+            "link": "itemswapper:v2/create_steam_n_rails/steam_n_rails",
+            "actAsLink": true
+        },
+        {
+            "id": "createaddition:electric_motor",
+            "name": "text.itemswapper.palette.create_electrical.electrics",
+            "link": "itemswapper:v2/create_electrical/electrics",
+            "actAsLink": true
+        }
+        
+    ],   
+    "ignoreItems": [
+        "create:ornate_iron_window"
+
+        
+    ],   
+    "shortcuts": [
+        {
+            "type": "link",
+            "target": "itemswapper:v2/main"
+        }
+    ]
+}

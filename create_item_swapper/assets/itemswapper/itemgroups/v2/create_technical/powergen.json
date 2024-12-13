@@ -1,0 +1,32 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_technical.powergen",
+    "icon": "create:water_wheel",
+    "items": [
+        "create:water_wheel",
+        "create:large_water_wheel",
+        "create:hand_crank",
+        {
+            "id": "create:copper_valve_handle",
+            "name": "text.itemswapper.palette.create_technical.auxiliary.valve",
+            "link": "itemswapper:v2/create_technical/auxiliary/valve",
+            "actAsLink": true
+        },
+        "create:windmill_bearing",
+        "create:white_sail",
+        "create:steam_engine",
+        "create:fluid_tank",
+        "create:blaze_burner",
+        "create:creative_motor"
+    ],
+    "ignoreItems": [
+    "create:copper_valve_handle"
+    ],
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_technical/tech"
+        } 
+    ]
+}

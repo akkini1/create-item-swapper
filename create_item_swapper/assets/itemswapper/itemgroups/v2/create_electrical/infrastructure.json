@@ -1,0 +1,23 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_electrical.infrastructure",
+    "icon": "createaddition:large_connector",	
+    "items": [
+        "createaddition:spool",
+        "createaddition:copper_spool",
+        "createaddition:gold_spool",
+        "createaddition:electrum_spool",
+        "createaddition:festive_spool",
+        "createaddition:connector",
+        "createaddition:small_light_connector",
+        "createaddition:large_connector"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_electrical/electrics"
+        }
+    ]
+}

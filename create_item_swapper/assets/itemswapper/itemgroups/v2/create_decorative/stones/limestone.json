@@ -1,0 +1,38 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_decorative.stones.limestone",
+    "icon": "create:limestone",	
+    "items": [
+        "create:limestone",
+        "create:cut_limestone",
+        "create:cut_limestone_stairs",
+        "create:cut_limestone_slab",
+        "create:cut_limestone_wall",
+        "create:polished_cut_limestone",
+        "create:polished_cut_limestone_stairs",
+        "create:polished_cut_limestone_slab",
+        "create:polished_cut_limestone_wall",
+        "create:cut_limestone_bricks",
+        "create:cut_limestone_brick_stairs",
+        "create:cut_limestone_brick_slab",
+        "create:cut_limestone_brick_wall",
+        "create:small_limestone_bricks",
+        "create:small_limestone_brick_stairs",
+        "create:small_limestone_brick_slab",
+        "create:small_limestone_brick_wall",
+        "create:layered_limestone",
+        "create:limestone_pillar"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_decorative/deco"
+        },
+        {
+            "type": "link",
+            "target": "itemswapper:v2/create_decorative/stones/stones"
+        } 
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "type": "paletteModification",
+    "target": "itemswapper:v2/technical/redstone",
+    "addItems": [
+        {
+            "id": "create:redstone_link",
+            "name": "text.itemswapper.palette.create_technical.redstone",
+            "link": "itemswapper:v2/create_technical/redstone",
+            "actAsLink": true
+        }
+    ]
+  }

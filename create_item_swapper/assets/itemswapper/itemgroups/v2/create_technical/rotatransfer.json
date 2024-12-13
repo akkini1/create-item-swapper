@@ -1,0 +1,28 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_technical.rotatransfer",
+    "icon": "create:shaft",
+    "items": [
+        "create:shaft",
+        "create:cogwheel",
+        "create:large_cogwheel",
+        "create:gearbox",
+        "create:vertical_gearbox",
+        "create:clutch",
+        "create:gearshift",
+        "create:encased_chain_drive",
+        "create:adjustable_chain_gearshift",
+        "create:belt_connector",
+        "create:sequenced_gearshift",
+        "create:rotation_speed_controller"
+        
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_technical/tech"
+        } 
+    ]
+}

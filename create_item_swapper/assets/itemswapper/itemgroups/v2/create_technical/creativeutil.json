@@ -1,0 +1,20 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_technical.creativeutil",
+    "icon": "create:creative_motor",	
+    "items": [
+        "create:handheld_worldshaper",
+        "create:creative_motor",
+        "create:creative_fluid_tank",
+        "create:creative_crate",
+        "create:creative_blaze_cake"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_technical/tech"
+        } 
+    ]
+}

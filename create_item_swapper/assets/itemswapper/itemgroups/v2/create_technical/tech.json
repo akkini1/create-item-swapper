@@ -1,0 +1,104 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.tech",
+    "icon": "create:cogwheel",	
+    "items": [
+        {
+            "id": "create:wrench",
+            "name": "text.itemswapper.palette.create_technical.handhelds",
+            "link": "itemswapper:v2/create_technical/handhelds",
+            "actAsLink": true
+        },
+        {
+            "id": "create:creative_motor",
+            "name": "text.itemswapper.palette.create_technical.creativeutil",
+            "link": "itemswapper:v2/create_technical/creativeutil",
+            "actAsLink": true
+        },
+        {
+            "id": "create:shaft",
+            "name": "text.itemswapper.palette.create_technical.rotatransfer",
+            "link": "itemswapper:v2/create_technical/rotatransfer",
+            "actAsLink": true
+        },
+        {
+            "id": "create:water_wheel",
+            "name": "text.itemswapper.palette.create_technical.powergen",
+            "link": "itemswapper:v2/create_technical/powergen",
+            "actAsLink": true
+        },
+        {
+            "id": "create:encased_fan",
+            "name": "text.itemswapper.palette.create_technical.machinery",
+            "link": "itemswapper:v2/create_technical/machinery",
+            "actAsLink": true
+        },
+        {
+            "id": "create:belt_connector",
+            "name": "text.itemswapper.palette.create_technical.items",
+            "link": "itemswapper:v2/create_technical/items",
+            "actAsLink": true
+        },
+        {
+            "id": "create:fluid_pipe",
+            "name": "text.itemswapper.palette.create_technical.fluid",
+            "link": "itemswapper:v2/create_technical/fluid",
+            "actAsLink": true
+        },
+        {
+            "id": "create:mechanical_bearing",
+            "name": "text.itemswapper.palette.create_technical.contraptions",
+            "link": "itemswapper:v2/create_technical/contraptions",
+            "actAsLink": true
+        },
+        {
+            "id": "create:redstone_link",
+            "name": "text.itemswapper.palette.create_technical.redstone",
+            "link": "itemswapper:v2/create_technical/redstone",
+            "actAsLink": true
+        },
+        {
+            "id": "create:track_station",
+            "name": "text.itemswapper.palette.create_technical.trains",
+            "link": "itemswapper:v2/create_technical/trains",
+            "actAsLink": true
+        },
+        {
+            "id": "create:empty_schematic",
+            "name": "text.itemswapper.palette.create_technical.schematics",
+            "link": "itemswapper:v2/create_technical/schematics",
+            "actAsLink": true
+        },
+        {
+            "id": "create:display_link",
+            "name": "text.itemswapper.palette.create_technical.display",
+            "link": "itemswapper:v2/create_technical/display",
+            "actAsLink": true
+        }
+
+        
+    ],   
+    "ignoreItems": [
+        "create:wrench",
+        "create:creative_motor",
+        "create:shaft",
+        "create:water_wheel",
+        "create:encased_fan",
+        "create:belt_connector",
+        "create:fluid_pipe",
+        "create:mechanical_bearing",
+        "create:redstone_link",
+        "create:track_station",
+        "create:empty_schematic",
+        "create:display_link"
+
+        
+    ],   
+    "shortcuts": [
+        {
+            "type": "link",
+            "target": "itemswapper:v2/createmods"
+        }
+    ]
+}

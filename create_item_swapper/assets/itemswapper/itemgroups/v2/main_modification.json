@@ -1,0 +1,12 @@
+{
+    "type": "paletteModification",
+    "target": "itemswapper:v2/main",
+    "addItems": [
+        {
+            "id": "create:goggles",
+            "name": "text.itemswapper.palette.mods",
+            "link": "itemswapper:v2/createmods",
+            "actAsLink": true
+        }
+    ]
+  }

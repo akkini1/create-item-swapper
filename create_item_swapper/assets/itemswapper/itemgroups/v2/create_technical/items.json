@@ -1,0 +1,31 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_technical.items",
+    "icon": "create:belt_connector",
+    "items": [
+        "create:shaft",
+        "create:belt_connector",
+        "create:depot",
+        "create:mechanical_arm",
+        "create:weighted_edjector",
+        "create:chute",
+        "create:smart_chute",
+        "create:item_vault",
+        "create:portable_storage_interface",
+        "create:andesite_funnel",
+        "create:brass_funnel",
+        "create:andesite_tunnel",
+        "create:brass_tunnel",
+        "create:filter",
+        "create:attribute_filter"
+        
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_technical/tech"
+        }
+    ]
+}

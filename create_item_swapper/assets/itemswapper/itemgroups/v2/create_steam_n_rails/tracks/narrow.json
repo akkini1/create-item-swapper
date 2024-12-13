@@ -1,0 +1,36 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_snr.tracks.narrow",
+    "icon": "railways:track_spruce_narrow",	
+    "items": [
+        "railways:track_create_andesite_narrow",
+        "railways:track_acacia_narrow",
+        "railways:track_birch_narrow",
+        "railways:track_dark_oak_narrow",
+        "railways:track_dark_oak_narrow",
+        "railways:track_jungle_narrow",
+        "railways:track_oak_narrow",
+        "railways:track_spruce_narrow",
+        "railways:track_mangrove_narrow",
+        "railways:track_cherry_narrow",
+        "railways:track_bamboo_narrow",
+        "railways:track_stripped_bamboo_narrow",
+        "railways:track_warped_narrow",
+        "railways:track_crimson_narrow",
+        "railways:track_blackstone_narrow",
+        "railways:track_ender_narrow",
+        "railways:track_tieless"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_steam_n_rails/steam_n_rails"
+        },
+        {
+            "type": "link",
+            "target": "itemswapper:v2/create_steam_n_rails/tracks/tracks"
+        }
+    ]
+}

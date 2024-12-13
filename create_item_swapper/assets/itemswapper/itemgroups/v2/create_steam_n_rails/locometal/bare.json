@@ -1,0 +1,33 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_snr.locometal.bare",
+    "icon": "railways:slashed_locometal",	
+    "items": [
+        "railways:slashed_locometal",
+        "railways:riveted_locometal",
+        "railways:locometal_pillar",
+        "railways:locometal_smokebox",
+        "railways:plated_locometal",
+        "railways:flat_slashed_locometal",
+        "railways:flat_riveted_locometal",
+        "railways:brass_wrapped_locometal",
+        "railways:copper_wrapped_locometal",
+        "railways:iron_wrapped_locometal",
+        "railways:locometal_boiler",
+        "railways:brass_wrapped_locometal_boiler",
+        "railways:copper_wrapped_locometal_boiler",
+        "railways:iron_wrapped_locometal_boiler"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_steam_n_rails/steam_n_rails"
+        },
+        {
+            "type": "link",
+            "target": "itemswapper:v2/create_steam_n_rails/locometal/locometal"
+        }
+    ]
+}

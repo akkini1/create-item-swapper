@@ -1,0 +1,35 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_decorative.windows",
+    "icon": "create:spruce_window",	
+    "items": [
+        "create:tiled_glass",
+        "create:framed_glass",
+        "create:horizontal_framed_glass",
+        "create:vertical_framed_glass",
+        "create:oak_window",
+        "create:spruce_window",
+        "create:birch_window",
+        "create:jungle_window",
+        "create:acacia_window",
+        "create:dark_oak_window",
+        "create:mangrove_window",
+        "create:crimson_window",
+        "create:warped_window",
+        "create:ornate_iron_window"
+
+
+    ],   
+    "shortcuts": [
+        {
+            "type": "link",
+            "target": "itemswapper:v2/create_decorative/window_panes"
+        },
+        {
+            "type": "link",
+            "target": "itemswapper:v2/create_decorative/deco"
+        }
+        
+    ] 
+}

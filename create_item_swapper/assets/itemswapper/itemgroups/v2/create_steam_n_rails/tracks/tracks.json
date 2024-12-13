@@ -1,0 +1,42 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_snr.tracks",
+    "icon": "railways:track_dark_oak",
+    "items": [
+        {
+            "id": "railways:track_spruce_narrow",
+            "name": "text.itemswapper.palette.create_snr.tracks.narrow",
+            "link": "itemswapper:v2/create_steam_n_rails/tracks/narrow",
+            "actAsLink": true
+        },
+        {
+            "id": "railways:track_spruce",
+            "name": "text.itemswapper.palette.create_snr.tracks.standard",
+            "link": "itemswapper:v2/create_steam_n_rails/tracks/standard",
+            "actAsLink": true
+        },
+        {
+            "id": "railways:track_spruce_wide",
+            "name": "text.itemswapper.palette.create_snr.tracks.wide",
+            "link": "itemswapper:v2/create_steam_n_rails/tracks/wide",
+            "actAsLink": true
+        },
+        "railways:track_phantom",
+        "railways:track_monorail",
+        "railways:buffer"
+        
+    ],   
+    "ignoreItems": [
+        "railways:track_spruce_narrow",
+        "railways:track_spruce",
+        "railways:track_spruce_wide"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_steam_n_rails/steam_n_rails"
+        } 
+    ]
+}

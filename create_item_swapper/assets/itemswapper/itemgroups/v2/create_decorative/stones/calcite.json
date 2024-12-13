@@ -1,0 +1,37 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_decorative.stones.calcite",
+    "icon": "create:cut_calcite",	
+    "items": [
+        "create:cut_calcite",
+        "create:cut_calcite_stairs",
+        "create:cut_calcite_slab",
+        "create:cut_calcite_wall",
+        "create:polished_cut_calcite",
+        "create:polished_cut_calcite_stairs",
+        "create:polished_cut_calcite_slab",
+        "create:polished_cut_calcite_wall",
+        "create:cut_calcite_bricks",
+        "create:cut_calcite_brick_stairs",
+        "create:cut_calcite_brick_slab",
+        "create:cut_calcite_brick_wall",
+        "create:small_calcite_bricks",
+        "create:small_calcite_brick_stairs",
+        "create:small_calcite_brick_slab",
+        "create:small_calcite_brick_wall",
+        "create:layered_calcite",
+        "create:calcite_pillar"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_decorative/deco"
+        },
+        {
+            "type": "link",
+            "target": "itemswapper:v2/create_decorative/stones/stones"
+        }
+    ]
+}

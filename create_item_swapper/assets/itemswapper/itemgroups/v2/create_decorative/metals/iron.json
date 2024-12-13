@@ -1,0 +1,44 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_decorative.metals.iron",
+    "icon": "minecraft:iron_block",	
+    "items": [
+        "minecraft:iron_block",
+        "create:iron_ladder",
+        "create:iron_bars",
+        "create:iron_scaffolding",
+        "create:iron_door",
+        "create:iron_block",
+        "createdeco:iron_window",
+        "createdeco:iron_window_pane",
+        "createdeco:iron_bars_overlay",
+        "createdeco:iron_bars",
+        "createdeco:iron_mesh_fence",
+        "createdeco:iron_catwalk",
+        "createdeco:iron_catwalk_stairs",
+        "createdeco:iron_catwalk_railing",
+        "createdeco:iron_support_wedge",
+        "createdeco:iron_hull",
+        "createdeco:iron_support",
+        "createdeco:yellow_iron_lamp",
+        "createdeco:red_iron_lamp",
+        "createdeco:green_iron_lamp",
+        "createdeco:blue_iron_lamp",
+        "createdeco:iron_sheet_metal",
+        "createdeco:iron_door",
+        "createdeco:locked_iron_door",
+        "createdeco:iron_trapdoor"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_decorative/deco"
+        },
+        {
+            "type": "link",
+            "target": "itemswapper:v2/create_decorative/metals/metals"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.create_decorative.stones.asurine",
+    "icon": "create:asurine",	
+    "items": [
+        "create:asurine",
+        "create:cut_asurine",
+        "create:cut_asurine_stairs",
+        "create:cut_asurine_slab",
+        "create:cut_asurine_wall",
+        "create:polished_cut_asurine",
+        "create:polished_cut_asurine_stairs",
+        "create:polished_cut_asurine_slab",
+        "create:polished_cut_asurine_wall",
+        "create:cut_asurine_bricks",
+        "create:cut_asurine_brick_stairs",
+        "create:cut_asurine_brick_slab",
+        "create:cut_asurine_brick_wall",
+        "create:small_asurine_bricks",
+        "create:small_asurine_brick_stairs",
+        "create:small_asurine_brick_slab",
+        "create:small_asurine_brick_wall",
+        "create:layered_asurine",
+        "create:asurine_pillar"
+
+    ],   
+    "shortcuts": [
+        {
+          "type": "link",
+          "target": "itemswapper:v2/create_decorative/deco"
+        },
+        {
+            "type": "link",
+            "target": "itemswapper:v2/create_decorative/stones/stones"
+        }
+    ]
+}

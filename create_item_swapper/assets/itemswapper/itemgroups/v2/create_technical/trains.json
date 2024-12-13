@@ -4,12 +4,12 @@
     "displayName": "text.itemswapper.palette.create_technical.trains",
     "icon": "create:track_station",
     "items": [
-        "create:track",
-        "create:railway_casing",
-        "create:schedule",
         "create:track_station",
         "create:track_signal",
         "create:track_observer",
+        "create:schedule",
+        "create:track",
+        "create:railway_casing",
         "create:controls",
         "create:train_door",
         "create:train_trapdoor"

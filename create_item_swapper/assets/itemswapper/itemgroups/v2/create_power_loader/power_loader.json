@@ -1,0 +1,18 @@
+{
+    "type": "palette",
+    "priority": 100,
+    "displayName": "text.itemswapper.palette.power_loader",
+    "icon": "create_power_loader:empty_andesite_chunk_loader",	
+    "items": [
+        "create_power_loader:empty_andesite_chunk_loader",
+        "create_power_loader:andesite_chunk_loader",
+        "create_power_loader:empty_brass_chunk_loader",
+        "create_power_loader:brass_chunk_loader"
+    ],   
+    "shortcuts": [
+        {
+            "type": "link",
+            "target": "itemswapper:v2/createmods"
+        }
+    ]
+}

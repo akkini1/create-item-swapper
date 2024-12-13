@@ -27,6 +27,12 @@
             "name": "text.itemswapper.palette.create_electrical.electrics",
             "link": "itemswapper:v2/create_electrical/electrics",
             "actAsLink": true
+        },
+        {
+            "id": "create_power_loader:empty_andesite_chunk_loader",
+            "name": "text.itemswapper.palette.power_loader",
+            "link": "itemswapper:v2/create_power_loader/power_loader",
+            "actAsLink": true
         }
         
     ],   

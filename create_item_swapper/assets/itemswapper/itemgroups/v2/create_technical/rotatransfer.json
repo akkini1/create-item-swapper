@@ -13,6 +13,8 @@
         "create:gearshift",
         "create:encased_chain_drive",
         "create:adjustable_chain_gearshift",
+        "create:stressometer",
+        "create:speedometer",
         "create:belt_connector",
         "create:sequenced_gearshift",
         "create:rotation_speed_controller"

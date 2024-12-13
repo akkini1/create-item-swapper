@@ -11,7 +11,8 @@
         "createaddition:festive_spool",
         "createaddition:connector",
         "createaddition:small_light_connector",
-        "createaddition:large_connector"
+        "createaddition:large_connector",
+        "createaddition:redstone_relay"
 
     ],   
     "shortcuts": [
